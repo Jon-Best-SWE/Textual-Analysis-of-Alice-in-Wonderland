@@ -24,7 +24,7 @@ cd Textual-Analysis-of-Alice-in-Wonderland
 ```
 
 2. Analyze the Data
-The Python scripts provided in this repository (`Jon_Best_Alice_in_Wonderland_LSTM_Torch_Code.py`) contain code for analyzing the "Alice in Wonderland" textual dataset. It is not meant to be run directly from the command line but should be executed within a Python environment or Jupyter Notebook.
+The Python script provided in this repository (`Jon_Best_Alice_in_Wonderland_LSTM_Torch_Code.py`) contains code for analyzing the "Alice in Wonderland" textual dataset. It is not meant to be run directly from the command line but should be executed within a Python environment or Jupyter Notebook.
 
 3. Open in a Python Environment
 You can open and run the provided Python scripts in a Python IDE (e.g., Anaconda, Jupyter Notebook) or code editor (e.g., Visual Studio Code).
