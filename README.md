@@ -19,7 +19,7 @@ python -m nltk.downloader all
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jon-Best-SWE/Jon_Best_Alice_in_Wonderland_LSTM_Torch_Code.py
+git clone https://github.com/Jon-Best-SWE/Textual-Analysis-of-Alice-in-Wonderland.git
 cd Textual-Analysis-of-Alice-in-Wonderland
 ```
 
