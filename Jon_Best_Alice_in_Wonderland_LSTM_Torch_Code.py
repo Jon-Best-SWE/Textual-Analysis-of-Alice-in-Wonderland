@@ -6,11 +6,9 @@ Created on Sun Jul 9 08:41:52 2023
 """
 
 # Jon Best
-# 7/9/2023
-# CS379 - Machine Learning
 # Advanced Machine Learning Examples  
 # The purpose of this Python code is to implement a text-generated long short-term memory algorithm using
-# the PyTorch neural network library and the model to generate new text based off of Alice in Wonderland.
+# the PyTorch neural network library and the model to generate new text based on Alice in Wonderland.
  
 #***************************************************************************************
 # Title: Create your first Text Generator with LSTM in few minutes
